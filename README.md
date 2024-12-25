@@ -1,1 +1,1 @@
-# threjs-globe
+# threejs-globe
